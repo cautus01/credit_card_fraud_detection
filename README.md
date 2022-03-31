@@ -21,3 +21,11 @@
 - MLP는 정확도 : 0.99 , Recall : 0.70, Precision : 0.9, f1-score : 0.79, 
 
 - Randomforest는 정확도 : 0.99 , Recall : 0.74, Precision : 0.99, f1-score : 0.85**
+
+## 코드 및 역할
+
+- **KNN** [**LINK**](https://github.com/cautus01/credit_card_fraud_detection/blob/main/KNN.py) 참고
+
+- **MLP** [**LINK**](https://github.com/cautus01/credit_card_fraud_detection/blob/main/MLP.py) 참고
+
+- **Randomforest** [**LINK**](https://github.com/cautus01/credit_card_fraud_detection/blob/main/Randomforest.py) 참고
